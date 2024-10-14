@@ -1,4 +1,4 @@
-const apiKey = '1738c81ccec49dcb31842070';
+const apiKey = 'f4e41845bf7d9d62233f772b';
 
 document.addEventListener('DOMContentLoaded', function() {
     flatpickr.localize(flatpickr.l10ns.zh);
